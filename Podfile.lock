@@ -1,0 +1,10 @@
+PODS:
+  - HexColors (3.0.0)
+
+DEPENDENCIES:
+  - HexColors
+
+SPEC CHECKSUMS:
+  HexColors: 8b83e3fe90c0d466dae7b98c9d22da95799f99cb
+
+COCOAPODS: 0.39.0
